@@ -1,4 +1,4 @@
-# Twitter Sentiment analysis with Apache Hive,Flume,Hdfs
+# **Twitter Sentiment analysis with Apache Hive,Flume,Hdfs**
 
 ## Introduction
 The sentiment analysis is one of the important analysis areas of Twitter messages that can be very useful in decision making. Performing sentiment analysis on Twitter is more challenging than doing it for lengthy reviews. This is because tweets are very short (approximately 140 characters only) and usually contain slang, emoticons, hashtag tags, and other Twitter-specific jargon. For Twitter development purposes, Twitter provides a streaming API that allows developers to access 1% of tweets on a particular keyword.
