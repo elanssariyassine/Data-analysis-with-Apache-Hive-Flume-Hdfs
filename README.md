@@ -5,8 +5,8 @@ The sentiment analysis is one of the important analysis areas of Twitter message
 
 ### How can we analyze Twitter data using **big data tools**? 
 Our analysis aims to answer the following questions: 
-✓ What were the hashtags used and how many times was each hashtag used? 
-✓ Identify the most trending hashtag of the day and how many times it was tweeted. 
-✓ Determine the score of each posted tweet. Identify if the tweet had a positive or negative sentiment
+- What were the hashtags used and how many times was each hashtag used? 
+- Identify the most trending hashtag of the day and how many times it was tweeted. 
+- Determine the score of each posted tweet. Identify if the tweet had a positive or negative sentiment
 
 
