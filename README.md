@@ -21,7 +21,7 @@ Our analysis aims to answer the following questions:
 ![](https://github.com/elanssariyassine/Twitter-Data-analysis-with-Apache-Hive-Flume-Hdfs/blob/main/Architecture.png)
 
 ## All processes of realization and output are in report pdf file
-![](https://github.com/elanssariyassine/Twitter-Data-analysis-with-Apache-Hive-Flume-Hdfs/blob/main/Project%20Report.pdf)
+[](https://github.com/elanssariyassine/Twitter-Data-analysis-with-Apache-Hive-Flume-Hdfs/blob/main/Project%20Report.pdf)
 
 
 
