@@ -20,7 +20,8 @@ Our analysis aims to answer the following questions:
 ## Project Architecture
 ![](https://github.com/elanssariyassine/Twitter-Data-analysis-with-Apache-Hive-Flume-Hdfs/blob/main/Architecture.png)
 
-## all process of realization and output are in report pdf file
+## All processes of realization and output are in report pdf file
+![](https://github.com/elanssariyassine/Twitter-Data-analysis-with-Apache-Hive-Flume-Hdfs/blob/main/Project%20Report.pdf)
 
 
 
