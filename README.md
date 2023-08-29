@@ -16,6 +16,7 @@ Our analysis aims to answer the following questions:
 - **Data Source** : TWITTER API
 
 ## Project Architecture
+![](https://github.com/elanssariyassine/Twitter-Data-analysis-with-Apache-Hive-Flume-Hdfs/blob/main/Architecture.png)
 
 
 
