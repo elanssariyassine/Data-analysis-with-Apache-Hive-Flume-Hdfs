@@ -13,6 +13,9 @@ Our analysis aims to answer the following questions:
 - **APACHE FLUME** : Apache Flume is Apache Foundation software for the collection and analysis of log files.
 - **HDFS** : HDFS is a distributed file system for storing and recover large files in record time.
 - **HIVE** : Apache Hive is an integrated data warehouse framework on Hadoop allowing analysis, querying via a similar language syntactically of SQL as well as data synthesis.
-- 
+- **Data Source** : TWITTER API
+
+## Project Architecture
+
 
 
