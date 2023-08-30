@@ -22,6 +22,7 @@ Our analysis aims to answer the following questions:
 
 ## All processes of realization and output are in report pdf file
 https://github.com/elanssariyassine/Twitter-Data-analysis-with-Apache-Hive-Flume-Hdfs/blob/main/Project%20Report.pdf
+* ![](https://github.com/elanssariyassine/Twitter-Data-analysis-with-Apache-Hive-Flume-Hdfs/blob/main/output_1.png)
 
 
 
